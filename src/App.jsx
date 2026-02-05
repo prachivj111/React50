@@ -1,11 +1,11 @@
 import React from 'react'
 import './App.css'
-import Pagination from './projects/Pagination/Pagination'
+import PaginationServer from './components/Pagination/PaginationServer'
 
 function App() {
   return (
       <>
-        <Pagination/>
+        <PaginationServer/>
       </>
   )
 }
