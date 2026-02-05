@@ -1,0 +1,13 @@
+* {
+  box-sizing: border-box;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: 400;
+}
+
+body {
+  margin: 0;
+  display: flex;
+  background: url('./assets/images/bg-main.jpg');
+  justify-content: center;
+  align-items: center;  
+}
