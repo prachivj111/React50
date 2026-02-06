@@ -1,0 +1,27 @@
+.container h1{
+    color: #fff;
+}
+.overlay{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: rgba(0, 0, 0, 0.6);
+    inset: 0;
+    position: fixed;
+    text-align: center;
+}
+button{
+    width: 100%;
+    background-color: rgb(28, 156, 247);
+    border: 0;
+    color: #fff;
+    padding: 10px 20px;
+    cursor: pointer;
+}
+.modal{
+    width: 350px;
+    background-color: #fff;
+    color:#000;
+    padding: 20px;
+    border-radius: 8px;
+}

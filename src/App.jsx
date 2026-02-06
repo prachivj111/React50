@@ -1,11 +1,11 @@
 import React from 'react'
 import './App.css'
-import PaginationServer from './components/Pagination/PaginationServer'
+import Modal from './components/Modal/Modal'
 
 function App() {
   return (
       <>
-        <PaginationServer/>
+        <Modal/>
       </>
   )
 }
